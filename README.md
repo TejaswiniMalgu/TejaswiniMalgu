@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-malgutejaswini%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malgutejaswini@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaswini-malgu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/TejaswiniMalgu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/MalguTejaswini/)
 
 </div>
 
